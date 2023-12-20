@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shilpabrigit
 - 👀 I’m interested in Data, books and travelling
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Data
+- 💞️ I’m looking to collaborate on Data and its related
 - 📫 How to reach me , mail me at shilpabrigitpaul@gmail.com
 
 <!---
